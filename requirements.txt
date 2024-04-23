@@ -1,0 +1,28 @@
+# Requirements.txt
+
+# Core Library
+libecho
+
+# Principles
+# Results reported as text-based log events
+# Plug and play using header-only libraries
+
+# Features
+# Echo Module:
+#   * Support for variables and expressions
+#   + Verbose mode
+# Unit Testing:
+#   * Expectation assertions
+# Trace Module:
+#   * Beautify trace stack output
+# Profiling Module:
+#   * Thread profiling
+#   * CPU profiling
+#   * Memory profiling
+#   * I/O profiling
+# Distribution:
+#   * Conan package manager
+#   * CMake FetchContent integration
+# Documentation:
+#   * Doxygen
+#   * gitpage
