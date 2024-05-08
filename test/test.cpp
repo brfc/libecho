@@ -37,6 +37,7 @@ int main()
         i = 10;
         int l = 10;
         int* a = new int(29);
+        log("call to usleep");
         usleep(15000);
     })
 
