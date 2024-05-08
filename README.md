@@ -19,3 +19,7 @@
     * I/O profiling
     * Distributed as conan package
     * Doxygen & gitpage
+
+#### Build & Execute test/test.cpp
+<img src="test/screen.png" alt="print" width="500"/>
+
